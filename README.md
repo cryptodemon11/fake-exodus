@@ -22,7 +22,7 @@ Extract it to your computer.
 
 Make sure Exodus is closed.
 
-Run Exodus (Python must be installed).
+Run Exodus
 
 Usage Shortcuts
 
